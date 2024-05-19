@@ -25,9 +25,9 @@ pip install pyperclip
 4. 将 Microsoft Edge 浏览器拖拽至屏幕右边缘，使其占据屏幕右半部分；
 5. 运行脚本即可，脚本会自动填写表单并提交。
 
-## 效果展示
+## 效果演示
 
-
+https://github.com/xixu-zg/Automation-of-Venue-Reservation/assets/109734945/a6c49e9d-b5ad-46ae-957e-05fd27ff30c2
 
 ## 注意事项
 
