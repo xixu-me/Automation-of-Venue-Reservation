@@ -6,14 +6,18 @@
 
 - Windows 操作系统
 - Microsoft Edge 浏览器
-- Python 3.6 或更高版本
+- Python 3.x
 - PyAutoGUI 库
+- PIL (Pillow) 库
+- NumPy 库
 - Pyperclip 库
 
 你可以使用以下命令来安装所需的库：
 
 ```bash
 pip install pyautogui
+pip install pillow
+pip install numpy
 pip install pyperclip
 ```
 
