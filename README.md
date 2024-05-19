@@ -27,7 +27,7 @@ pip install pyperclip
 
 ## 效果演示
 
-<https://github.com/xixu-zg/Automation-of-Venue-Reservation/assets/109734945/a6c49e9d-b5ad-46ae-957e-05fd27ff30c2>
+<https://github.com/xixu-zg/Automation-of-Venue-Reservation/assets/109734945/fb90aa05-b158-467c-9890-61a3108f1db4>
 
 ## 注意事项
 
