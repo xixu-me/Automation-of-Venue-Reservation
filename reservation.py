@@ -23,7 +23,7 @@ pag.press("enter")
 while Image.fromarray(np.array(pag.screenshot(region=(1165, 35, 1, 1)))).getpixel(
     (0, 0)
 ) != (49, 193, 123):
-    time.sleep(0.5)
+    time.sleep(0.1)
 pag.click(x=1020, y=275)
 pag.typewrite(学号)
 pag.click(x=1020, y=380)
