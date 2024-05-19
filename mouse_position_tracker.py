@@ -1,3 +1,5 @@
+# Copyright (c) 2024 Xi Xu, All rights reserved.
+
 import pyautogui
 
 print("按下 Ctrl-C 退出")
