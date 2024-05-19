@@ -23,7 +23,7 @@ pip install pyperclip
 ## 使用方法
 
 1. 下载脚本，该表单存在两种布局，需根据表单布局选择脚本[“a.py”](https://github.com/xixu-zg/Automation-of-Venue-Reservation/blob/main/script/a.py)或脚本[“b.py”](https://github.com/xixu-zg/Automation-of-Venue-Reservation/blob/main/script/b.py)；
-2. 填写脚本中的表单信息，根据根据网速调整“网页加载时间”的值；
+2. 填写脚本中的表单信息，根据网速调整“网页加载时间”的值；
 3. 将 Microsoft Edge 浏览器拖拽至屏幕右边缘，使其占据屏幕右半部分；
 4. 运行脚本即可，脚本会自动填写表单并提交。
 
