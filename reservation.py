@@ -11,11 +11,11 @@
 周六周日时段 = 0  # 0: 09:30--11:30, 1: 11:30--13:30, 2: 13:30--15:30, 3: 15:30--17:30, 4: 17:30--19:30, 5: 19:30--21:30
 ##################################################
 
-import numpy as np
 import pyautogui as pag
-import pyperclip as ppc
-import time
 from PIL import Image
+import numpy as np
+import time
+import pyperclip as ppc
 
 pag.click(x=1200, y=75)  # 地址栏坐标
 pag.typewrite("https://www.chaojibiaodan.com/form/1d1u2Nk8")
