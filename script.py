@@ -1,8 +1,10 @@
 # Copyright (c) 2024 Xi Xu, All rights reserved.
 
+import numpy as np
 import pyautogui as pag
 import pyperclip as ppc
 import time
+from PIL import Image
 
 ############## 请在此处填写表单信息 ##############
 学号 = "2021000000"
@@ -14,13 +16,14 @@ import time
 周一至周五时段 = 0  # 0: 08:00--09:30, 1: 11:30--13:30, 2: 17:30--19:30, 3: 19:30--21:30
 周六周日时段 = 0  # 0: 09:30--11:30, 1: 11:30--13:30, 2: 13:30--15:30, 3: 15:30--17:30, 4: 17:30--19:30, 5: 19:30--21:30
 ##################################################
-网页加载时间 = 3  # 根据网速调整
-##################################################
 
 pag.click(x=1200, y=75)
 pag.typewrite("https://www.chaojibiaodan.com/form/1d1u2Nk8")
 pag.press("enter")
-time.sleep(网页加载时间)
+while Image.fromarray(np.array(pag.screenshot(region=(1165, 35, 1, 1)))).getpixel(
+    (0, 0)
+) != (49, 193, 123):
+    time.sleep(0.5)
 pag.click(x=1015, y=275)
 pag.typewrite(学号)
 pag.click(x=1015, y=380)
