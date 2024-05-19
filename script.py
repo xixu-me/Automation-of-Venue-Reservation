@@ -47,4 +47,4 @@ else:
     pag.click(x=1020, y=525)
     pag.click(x=1020, y=590 + 25 * 周六周日时段)
 pag.click(x=1020, y=730)
-pag.click(x=1430, y=820)
+pag.click(x=1440, y=820)
