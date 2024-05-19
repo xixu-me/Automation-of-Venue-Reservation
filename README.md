@@ -1,6 +1,6 @@
 # 场地预订自动化
 
-本存储库提供了自创的填写[“纺大阳光校区羽毛球馆场地预订”表单](https://www.chaojibiaodan.com/form/1d1u2Nk8)的自动化脚本。
+本存储库提供了填写[“纺大阳光校区羽毛球馆场地预订”表单](https://www.chaojibiaodan.com/form/1d1u2Nk8)的自动化脚本。
 
 ## 运行环境
 
