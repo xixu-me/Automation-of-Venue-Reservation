@@ -22,12 +22,12 @@ pip install pyperclip
 1. 下载脚本文件 [`reservation.py`](https://github.com/xixu-zg/Automation-of-Venue-Reservation/blob/main/reservation.py)；
 2. 填写脚本中的表单信息；
 3. 脚本中的坐标可能需要根据你的屏幕分辨率进行调整，你可以使用 [`mouse_position_tracker.py`](https://github.com/xixu-zg/Automation-of-Venue-Reservation/blob/main/mouse_position_tracker.py) 来通过追踪鼠标位置来获取坐标；
-4. 将 Microsoft Edge 浏览器拖拽至屏幕右边缘，使其占据屏幕右半部分；
+4. 在 Microsoft Edge 中新建 InPrivate 窗口并拖拽至屏幕右边缘，使其占据屏幕右半部分；
 5. 运行脚本即可，脚本会自动填写表单并提交。
 
 ## 效果演示
 
-https://github.com/xixu-zg/Automation-of-Venue-Reservation/assets/109734945/a6c49e9d-b5ad-46ae-957e-05fd27ff30c2
+<https://github.com/xixu-zg/Automation-of-Venue-Reservation/assets/109734945/a6c49e9d-b5ad-46ae-957e-05fd27ff30c2>
 
 ## 注意事项
 
