@@ -1,3 +1,5 @@
+# Copyright (c) 2024 Xi Xu, All rights reserved.
+
 import pyautogui as pag
 import pyperclip as ppc
 import time
