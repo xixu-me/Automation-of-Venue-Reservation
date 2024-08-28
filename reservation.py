@@ -1,4 +1,4 @@
-# Copyright (c) 2024 Xi Xu, All rights reserved.
+# Copyright (c) 2024 Xi Xu, all rights reserved.
 
 ############## 请在此处填写表单信息 ##############
 学号 = "2000000000"
